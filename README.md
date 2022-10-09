@@ -72,7 +72,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </div>  
------
-Credits: [RahulMahesh62](https://github.com/RahulMahesh62)
+
 
 Last Edited on: 15/01/2021
